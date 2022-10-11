@@ -9,8 +9,7 @@
   including documentation. It helps the distribution of open-source
   software by allowing distribution.
   
-  The Microsoft Windows license is a proprietary license, and because
-  of the copyright on that license and the name of our project,
+  The Microsoft Windows license is a proprietary license, and
   this license was created for the OpenWindows project to prevent
   Microsoft from trying to sue the OpenWindows project.
   
