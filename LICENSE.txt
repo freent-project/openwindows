@@ -28,7 +28,7 @@
       appreciated if possible but not required.
 
 3. PATENTS
-  Patent use is permitted, as long as patients that use this software do not attempt
+  Patent use is permitted, as long as patents that use this software do not attempt
   to make this software nonfree.
 
 END OF LICENSE
