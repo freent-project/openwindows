@@ -14,8 +14,10 @@ OpenWindows is a project to create a free Windows operating system made out of t
 ## Installation
 > **Warning**: Installation of OpenWindows will delete **all** data, including files,
   apps, settings, passwords, etc. Back-up your current OS before continuing.
-> **Info:**: Installation of OpenWindows requires an NTFS partition with a Windows-style
+
+> **Info**: Installation of OpenWindows requires an NTFS partition with a Windows-style
   drive letter. OpenWindows cannot recgonise any other partition.
+
 For instructions on installing OpenWindows, see [the guide at the OpenWindows documentation][docs].
 This guide is split into different sections, so carefully read each step and do not skip
 any steps unless the guide asks you to.
