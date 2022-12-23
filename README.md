@@ -8,7 +8,7 @@ OpenWindows is a project to create a free Windows operating system made out of t
 * **Microsoft Layer:** Provides support for the Win32 and (on OW64-based systems) Win64
   platforms in OpenWindows, by reimplementing Win32 and Win64 APIs and converting the rest
   of the executable into OpenWindows platform.
-* * **Installer (Part 1):** Part 1 of the installer installs all required files for part 2.
+* **Installer (Part 1):** Part 1 of the installer installs all required files for part 2.
 * **Installer (Part 2):** Part 2 of the installer installs all of the tools, games, etc.
 * **Linusti:** Linusti is a reimplementation of WSL to run programs designed for the Linux
   Kernel on OpenWindows. No dual-boot required.
