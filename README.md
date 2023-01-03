@@ -2,7 +2,7 @@
 OpenWindows is a project to create a free Windows operating system made out of these components:
 * **Bootloader:** The bootloader is responsible for booting OpenWindows.
 * **Kernel:** The kernel is the most important part. OpenWindows does not use Microsoft's
-  NT kernel, but rather it's own open-source NT kernel.
+  NT kernel, but rather it's own open-source NT kernel. For more info, see the [FreeNT documentation][freent].
 * **Platform:** OpenWindows uses OW32 and OW64 platforms. OW64 is compatible with OW32 legacy
   apps.
 * **Microsoft Layer:** Provides support for the Win32 and (on OW64-based systems) Win64
@@ -27,4 +27,5 @@ For instructions on installing OpenWindows, see [the guide at the OpenWindows do
 This guide is split into different sections, so carefully read each step and do not skip
 any steps unless the guide asks you to.
 
- [docs]: https://freent-project.github.com/openwindows-docs/install
+ [docs]: https://freent-project.github.io/openwindows11-docs/install
+ [freent]: https://freent-project.github.io/freent31-docs/why-not-msnt
