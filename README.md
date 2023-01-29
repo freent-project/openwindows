@@ -1,3 +1,5 @@
+**Do not confuse OpenWindows with old Sun Microsystems software with the same name.**
+
 # OpenWindows 11
 OpenWindows is a project to create a free Windows operating system made out of these components:
 * **Bootloader:** The bootloader is responsible for booting OpenWindows.
@@ -18,8 +20,8 @@ OpenWindows is a project to create a free Windows operating system made out of t
 > **Warning**: Installation of OpenWindows will delete **all** data, including files,
   apps, settings, passwords, etc. Back-up your current OS before continuing.
 
-> **Info**: Installation of OpenWindows requires an NTFS or FAT partition with a Windows-style
-  drive letter. OpenWindows cannot recgonise any other partition. If you do not have an NTFS
+> **Note**: Installation of OpenWindows requires an NTFS or FAT partition with a Windows-style
+  drive letter. OpenTheSystem cannot identify any other partition. If you do not have an NTFS
   or FAT partition, install Microsoft Windows to create one with a letter before installing
   OpenWindows.
 
@@ -27,5 +29,5 @@ For instructions on installing OpenWindows, see [the guide at the OpenWindows do
 This guide is split into different sections, so carefully read each step and do not skip
 any steps unless the guide asks you to.
 
- [docs]: https://freent-project.github.io/openwindows11-docs/install
- [freent]: https://freent-project.github.io/freent31-docs/why-not-msnt
+ [docs]: https://freent-project.github.io/openwindows11-help/install "Install guide"
+ [freent]: https://freent-project.github.io/freent31-docs/why-not-msnt "Why not Windows NT?"
