@@ -2,7 +2,8 @@
 
 # OpenWindows 11
 OpenWindows is a project to create a free Windows operating system made out of these components:
-* **Bootloader:** The bootloader is responsible for booting OpenWindows.
+* **OpenWindows Bootloader:** The bootloader is responsible for booting OpenWindows. This is
+  technically and internally known as `owboot`.
 * **Kernel:** The kernel is the most important part. OpenWindows does not use Microsoft's
   NT kernel, but rather it's own open-source NT kernel. For more info, see the [FreeNT documentation][freent].
 * **Platform:** OpenWindows uses OW32 and OW64 platforms. OW64 is compatible with OW32 legacy
@@ -21,7 +22,7 @@ OpenWindows is a project to create a free Windows operating system made out of t
   apps, settings, passwords, etc. Back-up your current OS before continuing.
 
 > **Note**: Installation of OpenWindows requires an NTFS or FAT partition with a Windows-style
-  drive letter. OpenTheSystem cannot identify any other partition. If you do not have an NTFS
+  drive letter. OpenWindows cannot identify any other partition. If you do not have an NTFS
   or FAT partition, install Microsoft Windows to create one with a letter before installing
   OpenWindows.
 
